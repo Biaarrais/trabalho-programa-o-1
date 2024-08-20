@@ -17,3 +17,23 @@ Servidores podem gerenciar uma ampla gama de serviços, como hospedar websites, 
 Dados
 Dados são fatos, estatísticas ou informações coletadas para análise e interpretação. Eles podem assumir diversas formas, incluindo números, texto, imagens e vídeos.
 Dados são a base para a tomada de decisões e análises em muitas áreas, desde negócios até pesquisas científicas, e são processados e analisados para extrair informações úteis e gerar conhecimento.
+
+Neutralidade da Rede:
+A neutralidade da rede é o princípio de que todos os dados na internet devem ser tratados de maneira igual, sem discriminação ou cobrança diferenciada com base no conteúdo, origem, destino ou tipo de dados. 
+Isso significa que provedores de internet não podem priorizar ou bloquear o acesso a sites e serviços específicos, garantindo uma internet aberta e igualitária para todos os usuários.
+
+Sistema Operacional:
+Um sistema operacional (SO) é um software essencial que gerencia o hardware do computador e fornece serviços para os programas de aplicação. 
+Ele atua como intermediário entre o usuário e o hardware do computador, permitindo a execução de aplicações, gerenciamento de arquivos, controle de dispositivos periféricos e comunicação entre diferentes partes do sistema.
+
+Memória (computação):
+Em computação, memória refere-se aos dispositivos e componentes que armazenam dados e instruções temporariamente ou permanentemente. 
+A memória RAM (Random Access Memory) é usada para armazenar dados e instruções que o processador está usando ativamente, enquanto a memória de armazenamento (como SSDs e HDs) mantém dados e programas a longo prazo.
+
+Variável (computação):
+Em programação e computação, uma variável é um espaço de armazenamento nomeado na memória que pode conter dados e cujo valor pode ser alterado durante a execução de um programa. 
+As variáveis são usadas para armazenar e manipular informações, como números, texto ou outros tipos de dados.
+
+Zero-rating:
+Zero-rating é uma prática onde provedores de internet não cobram dados pelo uso de certos serviços ou aplicativos específicos.
+Isso significa que o tráfego gerado por esses serviços não conta para o limite de dados do usuário. Embora possa facilitar o acesso a serviços populares, também pode levantar preocupações sobre a neutralidade da rede e a competição justa.
