@@ -25,9 +25,16 @@ Exemplos de Formatos
 Formatos Proprietários:
 DOCX (Microsoft Word): Formato de arquivo de documentos do Microsoft Word. Embora o DOCX use uma estrutura baseada em XML, seu uso é predominantemente associado ao software da Microsoft.
 XLSX (Microsoft Excel): Formato de planilhas do Microsoft Excel. Similar ao DOCX, o XLSX é um formato padrão mas é mais facilmente acessível com software da Microsoft.
+dwg( autocade)
+swf
+pdf( depende da versão) 
 Formatos Abertos:
 PDF (Portable Document Format): Desenvolvido pela Adobe, é um formato amplamente utilizado para documentos, preservando a formatação independentemente do software ou plataforma usada para visualizá-lo.
 CSV (Comma-Separated Values): Um formato simples e amplamente usado para armazenar dados tabulares. É um formato aberto e facilmente editável com muitos programas.
+pptx
+json
+odf
+png
 
 Implicações Relacionadas a Dados Públicos:
 
@@ -47,3 +54,7 @@ Formatos abertos reduzem custos associados a licenças de software e oferecem ma
 Dados públicos em formatos proprietários podem exigir software específico e pagar por licenças, o que pode limitar o acesso e uso desses dados.
 
 Esses fatores são cruciais para a gestão e transparência de dados públicos, ajudando a garantir que informações importantes estejam acessíveis e utilizáveis para o público e órgãos governamentais.
+
+
+
+
