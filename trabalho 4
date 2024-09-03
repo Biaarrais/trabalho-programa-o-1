@@ -1,0 +1,35 @@
+1- Python
+Descrição: Python é uma linguagem de programação de propósito geral, usada para desenvolvimento web, automação, ciência de dados, entre outros. Pode-se escrever lógica de negócios, manipular dados, ou controlar o fluxo de uma aplicação.
+Exemplo de código: Um programa simples em Python que imprime “Hello, World!” e soma dois números.
+ mas um cod em python pode ser :
+print(“Bia”)
+ o print é uma forma de falar para o computador fazer com que apareça o que vc escreveu entre as “”
+ ent vai aparecer nesse caso: Bia
+
+ 2. HTML (HyperText Markup Language)
+Descrição: HTML é uma linguagem de marcação usada para criar a estrutura e o conteúdo de páginas web. Ele define elementos como títulos, parágrafos, links, imagens, etc.
+ <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Título!</title>
+</head>
+<body>
+    <h1>Bia</h1>
+</body>
+</html>
+
+ 3. Java
+Descrição: Java é uma linguagem de programação de propósito geral, orientada a objetos, utilizada em aplicações de desktop, web, móveis e corporativas.
+ // Java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+ Explicação:
+	•	Python: Imprime “Bia” diretamente na saída do console.
+	•	HTML: Exibe “Bia” como um título em uma página web.
+	•	Java: Cria um programa completo que, ao ser executado, imprime “Bia” no console.
+
+Esses exemplos mostram como cada linguagem é usada em diferentes contextos: Python para scripts e automação, HTML para estrutura de páginas web, e Java para aplicações mais robustas.
