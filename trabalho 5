@@ -1,0 +1,38 @@
+1. Estrutura de Repetição
+A estrutura de repetição em Python pode ser feita usando loops for ou while. Vou mostrar um exemplo usando o loop for para iterar sobre uma lista e imprimir cada item.
+# Exemplo de estrutura de repetição com o loop 'for'
+frutas = ['maçã', 'banana', 'laranja', 'manga']
+
+for fruta in frutas:
+    print(f'Eu gosto de {fruta}')
+Neste exemplo, o loop for percorre a lista frutas e imprime uma mensagem para cada item da lista.
+
+2. Estrutura de Tomada de Decisão
+A estrutura de tomada de decisão em Python é feita usando a instrução if. Vou mostrar um exemplo simples onde verificamos se um número é positivo, negativo ou zero.
+# Exemplo de estrutura de tomada de decisão com 'if'
+numero = int(input('Digite um número: '))
+
+if numero > 0:
+    print('O número é positivo.')
+elif numero < 0:
+    print('O número é negativo.')
+else:
+    print('O número é zero.')
+Neste exemplo, o programa solicita que o usuário digite um número e, com base no valor digitado, imprime se o número é positivo, negativo ou zero.
+
+Juntando os Dois Exemplos
+Vou combinar uma estrutura de repetição e uma estrutura de tomada de decisão para mostrar como eles podem ser usados juntos. Suponha que queremos verificar uma lista de números e imprimir uma mensagem para cada número indicando se ele é positivo, negativo ou zero.
+# Exemplo combinado de estrutura de repetição e tomada de decisão
+numeros = [10, -3, 0, 7, -2]
+
+for numero in numeros:
+    if numero > 0:
+        print(f'O número {numero} é positivo.')
+    elif numero < 0:
+        print(f'O número {numero} é negativo.')
+    else:
+        print(f'O número {numero} é zero.')
+Neste código, o loop for percorre a lista numeros e a estrutura if determina a natureza de cada número, imprimindo a mensagem apropriada.
+
+
+
