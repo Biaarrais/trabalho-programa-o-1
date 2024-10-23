@@ -1,0 +1,14 @@
+def imprimir_vogais(texto):
+    vogais = 'aeiouAEIOU'  # Inclui vogais maiúsculas e minúsculas
+    resultado = ''  # Variável para armazenar as vogais encontradas
+    
+    for char in texto:  # Percorre cada caractere do texto
+        if char in vogais:  # Verifica se o caractere é uma vogal
+            resultado += char  # Adiciona a vogal ao resultado
+    
+    return resultado
+
+# Exemplo de uso
+palavra_ou_frase = "Olá, como você está?"
+vogais_encontradas = imprimir_vogais(palavra_ou_frase)
+print("Vogais encontradas:", vogais_encontradas)
